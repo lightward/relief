@@ -1,4 +1,4 @@
-# 🌳A relief strategy
+# 🌳 A relief strategy
 
 I'm [Isaac](https://isaacbowen.com/), and this is a strategy drawn from [Lightward](https://lightward.inc/).
 
